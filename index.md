@@ -8,5 +8,5 @@ Welcome to my digital score library.
 - [Nearer, Still Nearer](works/strings/nearerstillnearer.md)
 - [In the Garden](works/strings/inthegarden.md)
 
-##About
+<b>About</b>
 I am a hornist, pianist, transcriber, and arranger. I specialize in arranging hymns for small ensembles and transcribing well-known works for chamber ensembles such as brass quintet or string quartet.
