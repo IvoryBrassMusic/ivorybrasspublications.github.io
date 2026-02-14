@@ -8,4 +8,4 @@ Solo, chamber, and ensemble music featuring brass instruments.
 | [Holy, Holy, Holy](holyholyholy.md) | Horn Sextet | 3:30 |
 | [O Danny Boy](odannyboy.md) | Horn Sextet | 3:10 |
 
-[Back to Home](../)
+[Back to Home](index.md)
