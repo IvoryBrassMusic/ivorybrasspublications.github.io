@@ -11,12 +11,12 @@ Difficuly: Late Intermediate
 
 ---
 
-Audio
+<b>Audio</b>
 [Listen to MP3](inthegarden.mp3)
 
 ---
 
-Score
+<b>Score</b>
 [Download  PDF](inthegarden-preview.pdf)
 
 
