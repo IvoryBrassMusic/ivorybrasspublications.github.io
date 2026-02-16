@@ -1,0 +1,15 @@
+.site-nav {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
