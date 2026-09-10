@@ -16,7 +16,7 @@ Difficulty: Late Intermediate
 
 ---
 <b>Score</b>
-[Download PDF](thelordsprayer-preview.pdf)
+[Download PDF](thelordsprayer.pdf)
 
 
 
