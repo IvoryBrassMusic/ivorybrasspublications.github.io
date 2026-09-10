@@ -17,7 +17,7 @@ Difficulty: Late Intermediate
 ---
 
 <b>Score</b>
-[Download PDF](odannyboy-preview.pdf)
+[Download PDF](odannyboy.pdf)
 
 
 
