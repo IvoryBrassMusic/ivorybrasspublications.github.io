@@ -1,7 +1,7 @@
 # Great Is Thy Faithfulness
 
 Instrumentation: Horn Solo
-Duration: XXX
+Duration: 3 minutes, 33 seconds
 Difficulty: Late Intermediate
 
 ---
