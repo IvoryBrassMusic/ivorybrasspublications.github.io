@@ -16,7 +16,7 @@ Difficulty: Advanced
 
 ---
 <b>Score</b>
-[Download PDF](littlefugue-preview.pdf)
+[Download PDF](littlefugue.pdf)
 
 
 
