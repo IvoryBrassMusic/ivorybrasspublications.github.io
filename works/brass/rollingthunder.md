@@ -16,7 +16,7 @@ Difficulty: Advanced
 
 ---
 <b>Score</b>
-[Download PDF](rollingthunder-preview.pdf)
+[Download PDF](rollingthunder.pdf)
 
 
 
