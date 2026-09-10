@@ -17,7 +17,7 @@ Difficuly: Late Intermediate
 ---
 
 <b>Score</b>
-[Download  PDF](inthegarden-preview.pdf)
+[Download  PDF](inthegarden.pdf)
 
 
 
