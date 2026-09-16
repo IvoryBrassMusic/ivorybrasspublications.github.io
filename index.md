@@ -2,7 +2,7 @@
 
 *Transcriber and Arranger*
 
-Welcome to my digital score library.
+
 
 ## Browse the Catalog
 - [Brass Catalog](works/brass/index.md)
